@@ -1,2 +1,3 @@
-# T002.01 DL4CV
-DL4CV_2.1_Starter Book Code Examples
+# T002.01 PPOCV
+PPOCV_4.0_Practical Python and OpenCV
+Source Code for Book Examples
